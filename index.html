@@ -446,8 +446,6 @@
       (data.participants || []).forEach(p => { scoresMap[p.name] = p; });
 
       renderLeaderboard(scoresMap, eliminatedSet);
-
-      }
     })
     .catch(() => {
       document.getElementById('stageBanner').textContent = "⏳ Tournament begins 11 June 2026";
