@@ -22,8 +22,8 @@ from datetime import datetime, timezone
 
 # ── API CONFIG ────────────────────────────────────────────────────────────────
 API_KEY  = os.environ["FD_API_KEY"]          # Set in GitHub Secrets
-BASE_URL = "https://v3.football.api-sports.io/fixtures?league=1&season=2026"
-HEADERS  = {"x-apisports-key": API_KEY}
+BASE_URL = "https://api.football-data.org/v4"
+HEADERS  = {"X-Auth-Token": API_KEY}
 SEASON   = 2026
 
 # ── PARTICIPANT PICKS ─────────────────────────────────────────────────────────────────────────────────
@@ -119,10 +119,11 @@ def normalise(name: str) -> str:
 # Maps football-data.org stage strings to a numeric rank (higher = further).
 STAGE_RANK = {
     "GROUP_STAGE":    1,
-    "ROUND_OF_32":    2,
-    "ROUND_OF_16":    3,
+    "LAST_32":        2,   # API name for Round of 32
+    "LAST_16":        3,   # API name for Round of 16
     "QUARTER_FINALS": 4,
     "SEMI_FINALS":    5,
+    "THIRD_PLACE":    5,   # 3rd place playoff (same round as Final)
     "FINAL":          6,
 }
 
@@ -130,8 +131,8 @@ STAGE_RANK = {
 STAGE_DISPLAY = {
     "PRE_TOURNAMENT": "⏳ Tournament begins 11 June 2026",
     "GROUP_STAGE":    "🟢 Group Stage — In Progress",
-    "ROUND_OF_32":    "⚽ Round of 32 — In Progress",
-    "ROUND_OF_16":    "⚽ Round of 16 — In Progress",
+    "LAST_32":        "⚽ Round of 32 — In Progress",
+    "LAST_16":        "⚽ Round of 16 — In Progress",
     "QUARTER_FINALS": "⚽ Quarter-Finals — In Progress",
     "SEMI_FINALS":    "⚽ Semi-Finals — In Progress",
     "FINAL":          "🏆 The Final — In Progress",
@@ -141,22 +142,48 @@ STAGE_DISPLAY = {
 # Stage bonus points awarded when a team REACHES each stage
 # (i.e. they won the previous round)
 STAGE_BONUS = {
-    "ROUND_OF_32":    3,   # qualified from group stage
-    "ROUND_OF_16":    3,   # won Round of 32
+    "LAST_32":        3,   # qualified from group stage
+    "LAST_16":        3,   # won Round of 32
     "QUARTER_FINALS": 3,   # won Round of 16
     "SEMI_FINALS":    3,   # won Quarter-Final
     "FINAL":          3,   # won Semi-Final
+    # THIRD_PLACE: no bonus (teams already earned SEMI_FINALS bonus)
 }
 WINNER_BONUS = 10          # awarded to team that wins the Final
 
 
 def fetch_matches() -> list:
-    """Fetch all WC 2026 matches from football-data.org."""
-    url    = f"{BASE_URL}/competitions/WC/matches"
-    params = {"season": SEASON}
-    resp   = requests.get(url, headers=HEADERS, params=params, timeout=15)
+    """
+    Fetch all WC 2026 matches with real scores where available.
+
+    The all-matches endpoint reliably marks FINISHED matches but returns
+    null scores on the free tier. For each such match we make one extra
+    call to the individual match endpoint, which always returns real scores.
+    """
+    url = f"{BASE_URL}/competitions/WC/matches"
+    resp = requests.get(url, headers=HEADERS,
+                        params={"season": SEASON}, timeout=15)
     resp.raise_for_status()
-    return resp.json().get("matches", [])
+    matches = resp.json().get("matches", [])
+
+    # Patch null-scored FINISHED matches with individual match detail calls
+    for i, m in enumerate(matches):
+        if m.get("status") == "FINISHED":
+            ft = m.get("score", {}).get("fullTime", {})
+            if ft.get("home") is None:
+                detail = requests.get(
+                    f"{BASE_URL}/matches/{m['id']}",
+                    headers=HEADERS, timeout=15
+                )
+                if detail.ok:
+                    matches[i] = detail.json()
+                    ft2 = matches[i]["score"]["fullTime"]
+                    print(f"   📊 Fetched score for match {m['id']}: "
+                          f"{matches[i]['homeTeam']['name']} "
+                          f"{ft2['home']}-{ft2['away']} "
+                          f"{matches[i]['awayTeam']['name']}")
+
+    return matches
 
 
 def build_team_stats(matches: list) -> dict:
@@ -277,7 +304,7 @@ def get_eliminated_teams(matches: list) -> list:
         if status == "FINISHED":
             played.add(home)
             played.add(away)
-        elif status in ("SCHEDULED", "IN_PLAY", "PAUSED"):
+        elif status in ("SCHEDULED", "TIMED", "IN_PLAY", "PAUSED"):
             active.add(home)
             active.add(away)
 
@@ -308,9 +335,9 @@ def detect_current_stage(matches: list) -> str:
         status = m.get("status", "")
         if stage not in STAGE_RANK:
             continue
-        if status == "IN_PLAY" or status == "PAUSED":
+        if status in ("IN_PLAY", "PAUSED"):
             in_play.add(stage)
-        elif status == "SCHEDULED":
+        elif status in ("SCHEDULED", "TIMED"):
             scheduled.add(stage)
         elif status == "FINISHED":
             finished.add(stage)
@@ -342,16 +369,16 @@ def calc_max_additional_per_team(team: str, matches: list, team_stats: dict) -> 
     # Count remaining scheduled matches for this team
     remaining = sum(
         1 for m in matches
-        if m.get("status") == "SCHEDULED"
+        if m.get("status") in ("SCHEDULED", "TIMED")
         and normalise(m["homeTeam"]["name"]) == team
-        or m.get("status") == "SCHEDULED"
+        or m.get("status") in ("SCHEDULED", "TIMED")
         and normalise(m["awayTeam"]["name"]) == team
     )
     max_pts = remaining * 3
 
     # Stages that still have scheduled matches (stages not yet completed)
     stages_with_future = {
-        m["stage"] for m in matches if m.get("status") == "SCHEDULED"
+        m["stage"] for m in matches if m.get("status") in ("SCHEDULED", "TIMED")
     }
 
     # Add stage bonuses for stages not yet reached but still available
