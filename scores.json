@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-14T15:29:42Z",
+  "lastUpdated": "2026-06-14T20:42:11Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 19,
+  "actualTotalGoals": 27,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -55,27 +55,27 @@
     },
     {
       "name": "Krishit Kadd",
-      "matchPts": 3,
+      "matchPts": 6,
       "stagePts": 0,
-      "gf": 1,
-      "ga": 2,
+      "gf": 8,
+      "ga": 3,
       "maxPossible": 167
     },
     {
       "name": "Yuriy Syvenkyy",
-      "matchPts": 4,
+      "matchPts": 7,
       "stagePts": 0,
-      "gf": 3,
-      "ga": 3,
+      "gf": 10,
+      "ga": 4,
       "maxPossible": 165
     },
     {
       "name": "E.Monroy",
-      "matchPts": 1,
+      "matchPts": 4,
       "stagePts": 0,
-      "gf": 2,
-      "ga": 3,
-      "maxPossible": 165
+      "gf": 9,
+      "ga": 4,
+      "maxPossible": 162
     },
     {
       "name": "Enda Sheil",
@@ -107,7 +107,7 @@
       "stagePts": 0,
       "gf": 2,
       "ga": 2,
-      "maxPossible": 166
+      "maxPossible": 163
     },
     {
       "name": "Mike Feaver",
@@ -115,7 +115,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 2,
-      "maxPossible": 167
+      "maxPossible": 164
     },
     {
       "name": "LAST RIDE",
@@ -123,7 +123,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Mark",
@@ -171,7 +171,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Will Ries",
@@ -187,7 +187,7 @@
       "stagePts": 0,
       "gf": 1,
       "ga": 1,
-      "maxPossible": 134
+      "maxPossible": 131
     },
     {
       "name": "Benedict Delahunty",
@@ -259,7 +259,7 @@
       "stagePts": 0,
       "gf": 1,
       "ga": 1,
-      "maxPossible": 168
+      "maxPossible": 165
     },
     {
       "name": "Johnny Kam",
@@ -267,7 +267,7 @@
       "stagePts": 0,
       "gf": 1,
       "ga": 6,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Matt",
@@ -291,7 +291,7 @@
       "stagePts": 0,
       "gf": 2,
       "ga": 3,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Hamid Saadvandi",
@@ -331,7 +331,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 4,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Mansi Pandya",
@@ -359,10 +359,10 @@
     },
     {
       "name": "James Liu",
-      "matchPts": 0,
+      "matchPts": 3,
       "stagePts": 0,
-      "gf": 1,
-      "ga": 4,
+      "gf": 8,
+      "ga": 5,
       "maxPossible": 167
     },
     {
@@ -395,7 +395,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 2,
-      "maxPossible": 167
+      "maxPossible": 164
     },
     {
       "name": "Brian Liao",
@@ -435,7 +435,7 @@
       "stagePts": 0,
       "gf": 2,
       "ga": 2,
-      "maxPossible": 167
+      "maxPossible": 161
     },
     {
       "name": "Nikita Patel",
@@ -443,14 +443,14 @@
       "stagePts": 0,
       "gf": 7,
       "ga": 1,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "EA",
-      "matchPts": 0,
+      "matchPts": 3,
       "stagePts": 0,
-      "gf": 1,
-      "ga": 4,
+      "gf": 8,
+      "ga": 5,
       "maxPossible": 167
     },
     {
@@ -459,7 +459,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 0,
-      "maxPossible": 170
+      "maxPossible": 167
     },
     {
       "name": "Jeremy Gresset",
@@ -483,7 +483,7 @@
       "stagePts": 0,
       "gf": 0,
       "ga": 2,
-      "maxPossible": 167
+      "maxPossible": 164
     },
     {
       "name": "Kevin Gao",
