@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-18T21:15:00Z",
+  "lastUpdated": "2026-06-19T12:35:43Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 82,
+  "actualTotalGoals": 89,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -98,16 +98,16 @@
       "matchPts": 9,
       "stagePts": 0,
       "gf": 8,
-      "ga": 4,
-      "maxPossible": 164
+      "ga": 10,
+      "maxPossible": 161
     },
     {
       "name": "YC Lin",
       "matchPts": 9,
       "stagePts": 0,
       "gf": 8,
-      "ga": 5,
-      "maxPossible": 164
+      "ga": 11,
+      "maxPossible": 161
     },
     {
       "name": "Mike Feaver",
@@ -154,8 +154,8 @@
       "matchPts": 8,
       "stagePts": 0,
       "gf": 4,
-      "ga": 4,
-      "maxPossible": 163
+      "ga": 5,
+      "maxPossible": 160
     },
     {
       "name": "Luna",
@@ -186,8 +186,8 @@
       "matchPts": 5,
       "stagePts": 0,
       "gf": 7,
-      "ga": 6,
-      "maxPossible": 129
+      "ga": 12,
+      "maxPossible": 126
     },
     {
       "name": "Benedict Delahunty",
@@ -207,9 +207,9 @@
     },
     {
       "name": "Kulwant lall",
-      "matchPts": 11,
+      "matchPts": 17,
       "stagePts": 0,
-      "gf": 8,
+      "gf": 15,
       "ga": 3,
       "maxPossible": 166
     },
@@ -303,9 +303,9 @@
     },
     {
       "name": "Ann Moreno",
-      "matchPts": 8,
+      "matchPts": 11,
       "stagePts": 0,
-      "gf": 6,
+      "gf": 7,
       "ga": 4,
       "maxPossible": 154
     },
@@ -354,8 +354,8 @@
       "matchPts": 8,
       "stagePts": 0,
       "gf": 11,
-      "ga": 6,
-      "maxPossible": 163
+      "ga": 12,
+      "maxPossible": 160
     },
     {
       "name": "James Liu",
@@ -410,8 +410,8 @@
       "matchPts": 8,
       "stagePts": 0,
       "gf": 11,
-      "ga": 9,
-      "maxPossible": 160
+      "ga": 15,
+      "maxPossible": 157
     },
     {
       "name": "Naoufal Kachmouni",
