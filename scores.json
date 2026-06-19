@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T12:35:43Z",
+  "lastUpdated": "2026-06-19T19:16:04Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 89,
@@ -99,7 +99,7 @@
       "stagePts": 0,
       "gf": 8,
       "ga": 10,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "YC Lin",
@@ -163,7 +163,7 @@
       "stagePts": 0,
       "gf": 10,
       "ga": 7,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Quang Nguyen",
@@ -211,7 +211,7 @@
       "stagePts": 0,
       "gf": 15,
       "ga": 3,
-      "maxPossible": 166
+      "maxPossible": 163
     },
     {
       "name": "Victor Sierra",
@@ -403,7 +403,7 @@
       "stagePts": 0,
       "gf": 12,
       "ga": 6,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Ryan Ma",
@@ -443,7 +443,7 @@
       "stagePts": 0,
       "gf": 11,
       "ga": 5,
-      "maxPossible": 166
+      "maxPossible": 160
     },
     {
       "name": "EA",
