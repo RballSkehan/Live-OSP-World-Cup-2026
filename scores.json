@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-21T22:00:36Z",
+  "lastUpdated": "2026-06-22T16:17:24Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 113,
+  "actualTotalGoals": 121,
   "eliminatedTeams": [],
   "participants": [
     {
@@ -23,34 +23,34 @@
     },
     {
       "name": "Liam Foster",
-      "matchPts": 8,
+      "matchPts": 11,
       "stagePts": 0,
-      "gf": 10,
-      "ga": 9,
+      "gf": 13,
+      "ga": 10,
       "maxPossible": 157
     },
     {
       "name": "Suresh Manivannin",
-      "matchPts": 13,
+      "matchPts": 14,
       "stagePts": 0,
-      "gf": 15,
-      "ga": 10,
-      "maxPossible": 162
+      "gf": 17,
+      "ga": 12,
+      "maxPossible": 160
     },
     {
       "name": "Logan Hebert",
-      "matchPts": 8,
+      "matchPts": 11,
       "stagePts": 0,
-      "gf": 12,
-      "ga": 10,
+      "gf": 15,
+      "ga": 11,
       "maxPossible": 160
     },
     {
       "name": "Shahab Khodakhah",
-      "matchPts": 13,
+      "matchPts": 16,
       "stagePts": 0,
-      "gf": 15,
-      "ga": 7,
+      "gf": 18,
+      "ga": 8,
       "maxPossible": 159
     },
     {
@@ -71,10 +71,10 @@
     },
     {
       "name": "E.Monroy",
-      "matchPts": 16,
+      "matchPts": 19,
       "stagePts": 0,
-      "gf": 22,
-      "ga": 9,
+      "gf": 25,
+      "ga": 10,
       "maxPossible": 159
     },
     {
@@ -87,19 +87,19 @@
     },
     {
       "name": "Rodolfo King",
-      "matchPts": 14,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 18,
-      "ga": 10,
-      "maxPossible": 163
+      "gf": 20,
+      "ga": 12,
+      "maxPossible": 161
     },
     {
       "name": "james s",
       "matchPts": 12,
       "stagePts": 0,
-      "gf": 12,
-      "ga": 12,
-      "maxPossible": 158
+      "gf": 13,
+      "ga": 15,
+      "maxPossible": 155
     },
     {
       "name": "YC Lin",
@@ -135,11 +135,11 @@
     },
     {
       "name": "hondaboizzzz",
-      "matchPts": 11,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 15,
-      "ga": 8,
-      "maxPossible": 129
+      "gf": 17,
+      "ga": 10,
+      "maxPossible": 127
     },
     {
       "name": "Herman Anday",
@@ -199,19 +199,19 @@
     },
     {
       "name": "Luc w.",
-      "matchPts": 14,
+      "matchPts": 15,
       "stagePts": 0,
-      "gf": 11,
-      "ga": 4,
-      "maxPossible": 163
+      "gf": 13,
+      "ga": 6,
+      "maxPossible": 161
     },
     {
       "name": "Kulwant lall",
       "matchPts": 17,
       "stagePts": 0,
-      "gf": 15,
-      "ga": 6,
-      "maxPossible": 160
+      "gf": 16,
+      "ga": 9,
+      "maxPossible": 157
     },
     {
       "name": "Victor Sierra",
@@ -247,19 +247,19 @@
     },
     {
       "name": "Chun Tung Ho, Tony",
-      "matchPts": 11,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 12,
-      "ga": 6,
-      "maxPossible": 160
+      "gf": 14,
+      "ga": 8,
+      "maxPossible": 158
     },
     {
       "name": "Sandy Hui",
-      "matchPts": 15,
+      "matchPts": 16,
       "stagePts": 0,
-      "gf": 17,
-      "ga": 6,
-      "maxPossible": 164
+      "gf": 19,
+      "ga": 8,
+      "maxPossible": 162
     },
     {
       "name": "Johnny Kam",
@@ -271,11 +271,11 @@
     },
     {
       "name": "Matt",
-      "matchPts": 8,
+      "matchPts": 12,
       "stagePts": 0,
-      "gf": 8,
-      "ga": 6,
-      "maxPossible": 160
+      "gf": 13,
+      "ga": 9,
+      "maxPossible": 158
     },
     {
       "name": "Tae Woo Kim",
@@ -441,9 +441,9 @@
       "name": "Nikita Patel",
       "matchPts": 17,
       "stagePts": 0,
-      "gf": 18,
-      "ga": 9,
-      "maxPossible": 160
+      "gf": 19,
+      "ga": 12,
+      "maxPossible": 157
     },
     {
       "name": "EA",
@@ -503,11 +503,11 @@
     },
     {
       "name": "Parminder Ralh",
-      "matchPts": 13,
+      "matchPts": 14,
       "stagePts": 0,
-      "gf": 15,
-      "ga": 10,
-      "maxPossible": 162
+      "gf": 17,
+      "ga": 12,
+      "maxPossible": 160
     }
   ]
 }
