@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T10:48:33Z",
+  "lastUpdated": "2026-06-23T17:31:29Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 134,
@@ -123,7 +123,7 @@
       "stagePts": 0,
       "gf": 22,
       "ga": 12,
-      "maxPossible": 160
+      "maxPossible": 157
     },
     {
       "name": "Mark",
@@ -147,7 +147,7 @@
       "stagePts": 0,
       "gf": 16,
       "ga": 13,
-      "maxPossible": 157
+      "maxPossible": 154
     },
     {
       "name": "stan of cr7",
@@ -155,7 +155,7 @@
       "stagePts": 0,
       "gf": 8,
       "ga": 7,
-      "maxPossible": 154
+      "maxPossible": 151
     },
     {
       "name": "Luna",
@@ -331,7 +331,7 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 10,
-      "maxPossible": 155
+      "maxPossible": 152
     },
     {
       "name": "Mansi Pandya",
@@ -395,7 +395,7 @@
       "stagePts": 0,
       "gf": 20,
       "ga": 10,
-      "maxPossible": 160
+      "maxPossible": 157
     },
     {
       "name": "Brian Liao",
@@ -459,7 +459,7 @@
       "stagePts": 0,
       "gf": 24,
       "ga": 14,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Jeremy Gresset",
@@ -467,7 +467,7 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 9,
-      "maxPossible": 157
+      "maxPossible": 154
     },
     {
       "name": "Amy",
