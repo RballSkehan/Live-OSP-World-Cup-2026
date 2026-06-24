@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-06-24T17:31:56Z",
+  "lastUpdated": "2026-06-24T22:42:23Z",
   "currentStage": "\ud83d\udfe2 Group Stage \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 141,
-  "eliminatedTeams": [],
+  "actualTotalGoals": 148,
+  "eliminatedTeams": [
+    "Bosnia-Herzegovina",
+    "Brazil",
+    "Canada",
+    "Haiti",
+    "Morocco",
+    "Qatar",
+    "Scotland",
+    "Switzerland"
+  ],
   "participants": [
     {
       "name": "Niall Murphy",
@@ -19,7 +28,7 @@
       "stagePts": 0,
       "gf": 20,
       "ga": 10,
-      "maxPossible": 160
+      "maxPossible": 157
     },
     {
       "name": "Liam Foster",
@@ -47,10 +56,10 @@
     },
     {
       "name": "Shahab Khodakhah",
-      "matchPts": 19,
+      "matchPts": 22,
       "stagePts": 0,
-      "gf": 21,
-      "ga": 8,
+      "gf": 23,
+      "ga": 9,
       "maxPossible": 159
     },
     {
@@ -59,7 +68,7 @@
       "stagePts": 0,
       "gf": 17,
       "ga": 10,
-      "maxPossible": 156
+      "maxPossible": 153
     },
     {
       "name": "Yuriy Syvenkyy",
@@ -67,7 +76,7 @@
       "stagePts": 0,
       "gf": 19,
       "ga": 11,
-      "maxPossible": 157
+      "maxPossible": 151
     },
     {
       "name": "E.Monroy",
@@ -75,7 +84,7 @@
       "stagePts": 0,
       "gf": 25,
       "ga": 10,
-      "maxPossible": 159
+      "maxPossible": 156
     },
     {
       "name": "Enda Sheil",
@@ -91,23 +100,23 @@
       "stagePts": 0,
       "gf": 26,
       "ga": 14,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "james s",
       "matchPts": 15,
       "stagePts": 0,
-      "gf": 16,
-      "ga": 15,
-      "maxPossible": 155
+      "gf": 17,
+      "ga": 18,
+      "maxPossible": 152
     },
     {
       "name": "YC Lin",
       "matchPts": 19,
       "stagePts": 0,
-      "gf": 18,
-      "ga": 11,
-      "maxPossible": 159
+      "gf": 19,
+      "ga": 14,
+      "maxPossible": 153
     },
     {
       "name": "Mike Feaver",
@@ -131,7 +140,7 @@
       "stagePts": 0,
       "gf": 19,
       "ga": 8,
-      "maxPossible": 160
+      "maxPossible": 157
     },
     {
       "name": "hondaboizzzz",
@@ -155,7 +164,7 @@
       "stagePts": 0,
       "gf": 13,
       "ga": 7,
-      "maxPossible": 154
+      "maxPossible": 151
     },
     {
       "name": "Luna",
@@ -179,15 +188,15 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 9,
-      "maxPossible": 159
+      "maxPossible": 156
     },
     {
       "name": "Yujie Hu",
       "matchPts": 11,
       "stagePts": 0,
-      "gf": 14,
-      "ga": 14,
-      "maxPossible": 123
+      "gf": 15,
+      "ga": 17,
+      "maxPossible": 120
     },
     {
       "name": "Benedict Delahunty",
@@ -209,9 +218,9 @@
       "name": "Kulwant lall",
       "matchPts": 17,
       "stagePts": 0,
-      "gf": 16,
-      "ga": 9,
-      "maxPossible": 157
+      "gf": 17,
+      "ga": 11,
+      "maxPossible": 151
     },
     {
       "name": "Victor Sierra",
@@ -219,7 +228,7 @@
       "stagePts": 0,
       "gf": 15,
       "ga": 9,
-      "maxPossible": 159
+      "maxPossible": 156
     },
     {
       "name": "Steven Ho",
@@ -243,7 +252,7 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 9,
-      "maxPossible": 155
+      "maxPossible": 149
     },
     {
       "name": "Chun Tung Ho, Tony",
@@ -259,7 +268,7 @@
       "stagePts": 0,
       "gf": 22,
       "ga": 10,
-      "maxPossible": 160
+      "maxPossible": 157
     },
     {
       "name": "Johnny Kam",
@@ -279,11 +288,11 @@
     },
     {
       "name": "Tae Woo Kim",
-      "matchPts": 15,
+      "matchPts": 18,
       "stagePts": 0,
-      "gf": 14,
-      "ga": 7,
-      "maxPossible": 155
+      "gf": 16,
+      "ga": 8,
+      "maxPossible": 149
     },
     {
       "name": "Baljeet",
@@ -291,7 +300,7 @@
       "stagePts": 0,
       "gf": 24,
       "ga": 11,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "Hamid Saadvandi",
@@ -299,7 +308,7 @@
       "stagePts": 0,
       "gf": 15,
       "ga": 17,
-      "maxPossible": 154
+      "maxPossible": 151
     },
     {
       "name": "Ann Moreno",
@@ -315,7 +324,7 @@
       "stagePts": 0,
       "gf": 21,
       "ga": 12,
-      "maxPossible": 162
+      "maxPossible": 159
     },
     {
       "name": "Sam W",
@@ -323,7 +332,7 @@
       "stagePts": 0,
       "gf": 19,
       "ga": 4,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "Atousa",
@@ -339,7 +348,7 @@
       "stagePts": 0,
       "gf": 20,
       "ga": 12,
-      "maxPossible": 159
+      "maxPossible": 156
     },
     {
       "name": "Mohammad Mahmoudzadeh",
@@ -353,9 +362,9 @@
       "name": "Tushar Saha",
       "matchPts": 17,
       "stagePts": 0,
-      "gf": 19,
-      "ga": 17,
-      "maxPossible": 157
+      "gf": 20,
+      "ga": 20,
+      "maxPossible": 154
     },
     {
       "name": "James Liu",
@@ -379,7 +388,7 @@
       "stagePts": 0,
       "gf": 19,
       "ga": 8,
-      "maxPossible": 160
+      "maxPossible": 157
     },
     {
       "name": "Bar Nyhof",
@@ -409,9 +418,9 @@
       "name": "Ryan Ma",
       "matchPts": 17,
       "stagePts": 0,
-      "gf": 17,
-      "ga": 15,
-      "maxPossible": 157
+      "gf": 18,
+      "ga": 18,
+      "maxPossible": 154
     },
     {
       "name": "Naoufal Kachmouni",
@@ -419,7 +428,7 @@
       "stagePts": 0,
       "gf": 20,
       "ga": 13,
-      "maxPossible": 160
+      "maxPossible": 154
     },
     {
       "name": "ronaldo",
@@ -435,7 +444,7 @@
       "stagePts": 0,
       "gf": 20,
       "ga": 9,
-      "maxPossible": 156
+      "maxPossible": 153
     },
     {
       "name": "Nikita Patel",
@@ -443,7 +452,7 @@
       "stagePts": 0,
       "gf": 19,
       "ga": 12,
-      "maxPossible": 157
+      "maxPossible": 154
     },
     {
       "name": "EA",
@@ -499,7 +508,7 @@
       "stagePts": 0,
       "gf": 14,
       "ga": 11,
-      "maxPossible": 155
+      "maxPossible": 149
     },
     {
       "name": "Parminder Ralh",
@@ -507,7 +516,7 @@
       "stagePts": 0,
       "gf": 19,
       "ga": 12,
-      "maxPossible": 158
+      "maxPossible": 155
     }
   ]
 }
