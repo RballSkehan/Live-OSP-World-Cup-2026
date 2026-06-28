@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "2026-06-28T19:59:10Z",
+  "lastUpdated": "2026-06-28T23:55:11Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 215,
+  "actualTotalGoals": 216,
   "eliminatedTeams": [
+    "Canada",
     "Cura\u00e7ao",
     "Czech Republic",
     "Haiti",
@@ -15,6 +16,7 @@
     "Qatar",
     "Saudi Arabia",
     "Scotland",
+    "South Africa",
     "South Korea",
     "Tunisia",
     "Turkey",
@@ -224,11 +226,11 @@
     },
     {
       "name": "Kulwant lall",
-      "matchPts": 21,
+      "matchPts": 24,
       "stagePts": 9,
-      "gf": 21,
+      "gf": 22,
       "ga": 19,
-      "maxPossible": 152
+      "maxPossible": 155
     },
     {
       "name": "Victor Sierra",
@@ -323,7 +325,7 @@
       "matchPts": 27,
       "stagePts": 12,
       "gf": 17,
-      "ga": 4,
+      "ga": 5,
       "maxPossible": 161
     },
     {
@@ -347,7 +349,7 @@
       "matchPts": 26,
       "stagePts": 12,
       "gf": 28,
-      "ga": 14,
+      "ga": 15,
       "maxPossible": 160
     },
     {
