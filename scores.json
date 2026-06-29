@@ -1,10 +1,9 @@
 {
-  "lastUpdated": "2026-06-28T23:55:11Z",
+  "lastUpdated": "2026-06-29T14:51:09Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 216,
   "eliminatedTeams": [
-    "Canada",
     "Cura\u00e7ao",
     "Czech Republic",
     "Haiti",
@@ -227,10 +226,10 @@
     {
       "name": "Kulwant lall",
       "matchPts": 24,
-      "stagePts": 9,
+      "stagePts": 12,
       "gf": 22,
       "ga": 19,
-      "maxPossible": 155
+      "maxPossible": 158
     },
     {
       "name": "Victor Sierra",
