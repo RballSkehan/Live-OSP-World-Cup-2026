@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-30T16:38:11Z",
+  "lastUpdated": "2026-06-30T22:02:45Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 235,
+  "actualTotalGoals": 238,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
@@ -10,10 +10,12 @@
     "Haiti",
     "Iran",
     "Iraq",
+    "Ivory Coast",
     "Japan",
     "Jordan",
     "Netherlands",
     "New Zealand",
+    "Norway",
     "Panama",
     "Qatar",
     "Saudi Arabia",
@@ -28,19 +30,19 @@
   "participants": [
     {
       "name": "Niall Murphy",
-      "matchPts": 32,
+      "matchPts": 35,
       "stagePts": 15,
-      "gf": 35,
-      "ga": 21,
-      "maxPossible": 172
+      "gf": 37,
+      "ga": 22,
+      "maxPossible": 166
     },
     {
       "name": "Conor Skehan",
       "matchPts": 36,
       "stagePts": 18,
-      "gf": 36,
-      "ga": 17,
-      "maxPossible": 176
+      "gf": 37,
+      "ga": 19,
+      "maxPossible": 167
     },
     {
       "name": "Liam Foster",
@@ -48,15 +50,15 @@
       "stagePts": 12,
       "gf": 28,
       "ga": 15,
-      "maxPossible": 167
+      "maxPossible": 164
     },
     {
       "name": "Suresh Manivannin",
       "matchPts": 30,
       "stagePts": 12,
-      "gf": 32,
-      "ga": 16,
-      "maxPossible": 167
+      "gf": 33,
+      "ga": 18,
+      "maxPossible": 158
     },
     {
       "name": "Logan Hebert",
@@ -72,7 +74,7 @@
       "stagePts": 12,
       "gf": 29,
       "ga": 14,
-      "maxPossible": 166
+      "maxPossible": 163
     },
     {
       "name": "Krishit Kadd",
@@ -100,19 +102,19 @@
     },
     {
       "name": "Enda Sheil",
-      "matchPts": 32,
+      "matchPts": 35,
       "stagePts": 12,
-      "gf": 30,
-      "ga": 15,
-      "maxPossible": 169
+      "gf": 32,
+      "ga": 16,
+      "maxPossible": 166
     },
     {
       "name": "Rodolfo King",
-      "matchPts": 31,
+      "matchPts": 34,
       "stagePts": 15,
-      "gf": 37,
-      "ga": 22,
-      "maxPossible": 168
+      "gf": 39,
+      "ga": 23,
+      "maxPossible": 162
     },
     {
       "name": "james s",
@@ -120,7 +122,7 @@
       "stagePts": 9,
       "gf": 23,
       "ga": 24,
-      "maxPossible": 156
+      "maxPossible": 153
     },
     {
       "name": "YC Lin",
@@ -128,46 +130,46 @@
       "stagePts": 15,
       "gf": 31,
       "ga": 21,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Mike Feaver",
-      "matchPts": 30,
+      "matchPts": 33,
       "stagePts": 12,
-      "gf": 34,
-      "ga": 19,
-      "maxPossible": 164
+      "gf": 36,
+      "ga": 20,
+      "maxPossible": 161
     },
     {
       "name": "LAST RIDE",
-      "matchPts": 25,
+      "matchPts": 28,
       "stagePts": 12,
-      "gf": 35,
-      "ga": 23,
-      "maxPossible": 159
+      "gf": 37,
+      "ga": 24,
+      "maxPossible": 156
     },
     {
       "name": "Mark",
-      "matchPts": 35,
+      "matchPts": 38,
       "stagePts": 15,
-      "gf": 36,
-      "ga": 20,
-      "maxPossible": 172
+      "gf": 38,
+      "ga": 21,
+      "maxPossible": 169
     },
     {
       "name": "hondaboizzzz",
-      "matchPts": 19,
+      "matchPts": 22,
       "stagePts": 9,
-      "gf": 23,
-      "ga": 18,
-      "maxPossible": 128
+      "gf": 25,
+      "ga": 19,
+      "maxPossible": 125
     },
     {
       "name": "Herman Anday",
-      "matchPts": 24,
+      "matchPts": 27,
       "stagePts": 12,
-      "gf": 27,
-      "ga": 21,
+      "gf": 29,
+      "ga": 22,
       "maxPossible": 161
     },
     {
@@ -184,15 +186,15 @@
       "stagePts": 6,
       "gf": 25,
       "ga": 19,
-      "maxPossible": 154
+      "maxPossible": 151
     },
     {
       "name": "Quang Nguyen",
-      "matchPts": 31,
+      "matchPts": 34,
       "stagePts": 15,
-      "gf": 38,
-      "ga": 21,
-      "maxPossible": 168
+      "gf": 40,
+      "ga": 22,
+      "maxPossible": 162
     },
     {
       "name": "Will Ries",
@@ -200,7 +202,7 @@
       "stagePts": 15,
       "gf": 29,
       "ga": 17,
-      "maxPossible": 169
+      "maxPossible": 166
     },
     {
       "name": "Yujie Hu",
@@ -212,19 +214,19 @@
     },
     {
       "name": "Benedict Delahunty",
-      "matchPts": 32,
+      "matchPts": 35,
       "stagePts": 15,
-      "gf": 35,
-      "ga": 21,
-      "maxPossible": 172
+      "gf": 37,
+      "ga": 22,
+      "maxPossible": 166
     },
     {
       "name": "Luc w.",
       "matchPts": 28,
       "stagePts": 12,
-      "gf": 24,
-      "ga": 10,
-      "maxPossible": 165
+      "gf": 25,
+      "ga": 12,
+      "maxPossible": 159
     },
     {
       "name": "Kulwant lall",
@@ -240,23 +242,23 @@
       "stagePts": 18,
       "gf": 38,
       "ga": 22,
-      "maxPossible": 175
+      "maxPossible": 172
     },
     {
       "name": "Steven Ho",
       "matchPts": 29,
       "stagePts": 12,
-      "gf": 26,
-      "ga": 15,
-      "maxPossible": 166
+      "gf": 27,
+      "ga": 17,
+      "maxPossible": 160
     },
     {
       "name": "Abdul",
-      "matchPts": 32,
+      "matchPts": 35,
       "stagePts": 15,
-      "gf": 30,
-      "ga": 16,
-      "maxPossible": 172
+      "gf": 32,
+      "ga": 17,
+      "maxPossible": 169
     },
     {
       "name": "Riyaz Kunjumohammed",
@@ -268,18 +270,18 @@
     },
     {
       "name": "Chun Tung Ho, Tony",
-      "matchPts": 27,
+      "matchPts": 30,
       "stagePts": 9,
-      "gf": 29,
-      "ga": 18,
-      "maxPossible": 161
+      "gf": 31,
+      "ga": 19,
+      "maxPossible": 158
     },
     {
       "name": "Sandy Hui",
-      "matchPts": 29,
+      "matchPts": 32,
       "stagePts": 15,
-      "gf": 35,
-      "ga": 23,
+      "gf": 37,
+      "ga": 24,
       "maxPossible": 163
     },
     {
@@ -296,7 +298,7 @@
       "stagePts": 9,
       "gf": 29,
       "ga": 15,
-      "maxPossible": 162
+      "maxPossible": 159
     },
     {
       "name": "Tae Woo Kim",
@@ -308,11 +310,11 @@
     },
     {
       "name": "Baljeet",
-      "matchPts": 33,
+      "matchPts": 36,
       "stagePts": 15,
-      "gf": 43,
-      "ga": 29,
-      "maxPossible": 167
+      "gf": 45,
+      "ga": 30,
+      "maxPossible": 164
     },
     {
       "name": "Hamid Saadvandi",
@@ -336,14 +338,14 @@
       "stagePts": 21,
       "gf": 42,
       "ga": 24,
-      "maxPossible": 179
+      "maxPossible": 173
     },
     {
       "name": "Sam W",
-      "matchPts": 36,
+      "matchPts": 39,
       "stagePts": 18,
-      "gf": 33,
-      "ga": 16,
+      "gf": 35,
+      "ga": 17,
       "maxPossible": 176
     },
     {
@@ -352,22 +354,22 @@
       "stagePts": 12,
       "gf": 29,
       "ga": 17,
-      "maxPossible": 157
+      "maxPossible": 154
     },
     {
       "name": "Mansi Pandya",
-      "matchPts": 34,
+      "matchPts": 37,
       "stagePts": 15,
-      "gf": 35,
-      "ga": 21,
-      "maxPossible": 171
+      "gf": 37,
+      "ga": 22,
+      "maxPossible": 168
     },
     {
       "name": "Mohammad Mahmoudzadeh",
-      "matchPts": 19,
+      "matchPts": 22,
       "stagePts": 6,
-      "gf": 19,
-      "ga": 15,
+      "gf": 21,
+      "ga": 16,
       "maxPossible": 125
     },
     {
@@ -376,7 +378,7 @@
       "stagePts": 12,
       "gf": 27,
       "ga": 23,
-      "maxPossible": 164
+      "maxPossible": 161
     },
     {
       "name": "James Liu",
@@ -388,43 +390,43 @@
     },
     {
       "name": "Baby Sabaten",
-      "matchPts": 27,
+      "matchPts": 30,
       "stagePts": 12,
-      "gf": 27,
-      "ga": 20,
-      "maxPossible": 164
+      "gf": 29,
+      "ga": 21,
+      "maxPossible": 161
     },
     {
       "name": "Latika",
-      "matchPts": 35,
+      "matchPts": 38,
       "stagePts": 15,
-      "gf": 36,
-      "ga": 20,
-      "maxPossible": 172
+      "gf": 38,
+      "ga": 21,
+      "maxPossible": 169
     },
     {
       "name": "Bar Nyhof",
-      "matchPts": 31,
+      "matchPts": 34,
       "stagePts": 12,
-      "gf": 31,
-      "ga": 19,
-      "maxPossible": 168
+      "gf": 33,
+      "ga": 20,
+      "maxPossible": 165
     },
     {
       "name": "ganju10",
-      "matchPts": 28,
+      "matchPts": 31,
       "stagePts": 12,
-      "gf": 35,
-      "ga": 20,
-      "maxPossible": 162
+      "gf": 37,
+      "ga": 21,
+      "maxPossible": 159
     },
     {
       "name": "Brian Liao",
-      "matchPts": 28,
+      "matchPts": 31,
       "stagePts": 18,
-      "gf": 29,
-      "ga": 24,
-      "maxPossible": 168
+      "gf": 31,
+      "ga": 25,
+      "maxPossible": 165
     },
     {
       "name": "Ryan Ma",
@@ -432,7 +434,7 @@
       "stagePts": 9,
       "gf": 27,
       "ga": 24,
-      "maxPossible": 160
+      "maxPossible": 157
     },
     {
       "name": "Naoufal Kachmouni",
@@ -440,15 +442,15 @@
       "stagePts": 24,
       "gf": 43,
       "ga": 25,
-      "maxPossible": 180
+      "maxPossible": 174
     },
     {
       "name": "ronaldo",
-      "matchPts": 32,
+      "matchPts": 35,
       "stagePts": 15,
-      "gf": 35,
-      "ga": 21,
-      "maxPossible": 172
+      "gf": 37,
+      "ga": 22,
+      "maxPossible": 166
     },
     {
       "name": "Maribeth Santos",
@@ -472,31 +474,31 @@
       "stagePts": 15,
       "gf": 36,
       "ga": 32,
-      "maxPossible": 163
+      "maxPossible": 160
     },
     {
       "name": "Yoshua",
-      "matchPts": 27,
+      "matchPts": 30,
       "stagePts": 15,
-      "gf": 35,
-      "ga": 22,
-      "maxPossible": 164
+      "gf": 37,
+      "ga": 23,
+      "maxPossible": 161
     },
     {
       "name": "Jeremy Gresset",
-      "matchPts": 27,
+      "matchPts": 30,
       "stagePts": 12,
-      "gf": 29,
-      "ga": 17,
-      "maxPossible": 164
+      "gf": 31,
+      "ga": 18,
+      "maxPossible": 161
     },
     {
       "name": "Amy",
-      "matchPts": 29,
+      "matchPts": 32,
       "stagePts": 12,
-      "gf": 31,
-      "ga": 22,
-      "maxPossible": 166
+      "gf": 33,
+      "ga": 23,
+      "maxPossible": 163
     },
     {
       "name": "ikhal",
@@ -508,11 +510,11 @@
     },
     {
       "name": "Kevin Gao",
-      "matchPts": 30,
+      "matchPts": 33,
       "stagePts": 12,
-      "gf": 29,
-      "ga": 16,
-      "maxPossible": 167
+      "gf": 31,
+      "ga": 17,
+      "maxPossible": 164
     },
     {
       "name": "Bilal",
@@ -528,7 +530,7 @@
       "stagePts": 9,
       "gf": 25,
       "ga": 18,
-      "maxPossible": 159
+      "maxPossible": 156
     }
   ]
 }
