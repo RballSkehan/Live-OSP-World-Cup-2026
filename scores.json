@@ -1,12 +1,14 @@
 {
-  "lastUpdated": "2026-07-01T10:56:38Z",
+  "lastUpdated": "2026-07-01T18:24:36Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 243,
+  "actualTotalGoals": 246,
   "eliminatedTeams": [
     "Cura\u00e7ao",
     "Czech Republic",
+    "DR Congo",
     "Ecuador",
+    "England",
     "Germany",
     "Haiti",
     "Iran",
@@ -64,10 +66,10 @@
     },
     {
       "name": "Logan Hebert",
-      "matchPts": 28,
+      "matchPts": 31,
       "stagePts": 12,
-      "gf": 26,
-      "ga": 17,
+      "gf": 28,
+      "ga": 18,
       "maxPossible": 165
     },
     {
@@ -200,10 +202,10 @@
     },
     {
       "name": "Will Ries",
-      "matchPts": 35,
+      "matchPts": 38,
       "stagePts": 18,
-      "gf": 32,
-      "ga": 17,
+      "gf": 34,
+      "ga": 18,
       "maxPossible": 172
     },
     {
@@ -480,10 +482,10 @@
     },
     {
       "name": "Yoshua",
-      "matchPts": 30,
+      "matchPts": 33,
       "stagePts": 18,
-      "gf": 37,
-      "ga": 26,
+      "gf": 39,
+      "ga": 27,
       "maxPossible": 164
     },
     {
@@ -496,10 +498,10 @@
     },
     {
       "name": "Amy",
-      "matchPts": 35,
+      "matchPts": 38,
       "stagePts": 18,
-      "gf": 36,
-      "ga": 23,
+      "gf": 38,
+      "ga": 24,
       "maxPossible": 172
     },
     {
@@ -528,10 +530,10 @@
     },
     {
       "name": "Parminder Ralh",
-      "matchPts": 25,
+      "matchPts": 28,
       "stagePts": 9,
-      "gf": 25,
-      "ga": 21,
+      "gf": 27,
+      "ga": 22,
       "maxPossible": 156
     }
   ]
