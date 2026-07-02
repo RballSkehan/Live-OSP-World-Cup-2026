@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-01T22:50:45Z",
+  "lastUpdated": "2026-07-02T10:15:49Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 246,
+  "actualTotalGoals": 253,
   "eliminatedTeams": [
+    "Bosnia-Herzegovina",
     "Cura\u00e7ao",
     "Czech Republic",
     "DR Congo",
     "Ecuador",
-    "England",
     "Germany",
     "Haiti",
     "Iran",
@@ -16,13 +16,13 @@
     "Ivory Coast",
     "Japan",
     "Jordan",
-    "Mexico",
     "Netherlands",
     "New Zealand",
     "Panama",
     "Qatar",
     "Saudi Arabia",
     "Scotland",
+    "Senegal",
     "South Africa",
     "South Korea",
     "Sweden",
@@ -67,10 +67,10 @@
     {
       "name": "Logan Hebert",
       "matchPts": 31,
-      "stagePts": 12,
+      "stagePts": 15,
       "gf": 28,
       "ga": 18,
-      "maxPossible": 165
+      "maxPossible": 168
     },
     {
       "name": "Shahab Khodakhah",
@@ -186,11 +186,11 @@
     },
     {
       "name": "Luna",
-      "matchPts": 26,
-      "stagePts": 9,
-      "gf": 28,
+      "matchPts": 29,
+      "stagePts": 12,
+      "gf": 30,
       "ga": 19,
-      "maxPossible": 157
+      "maxPossible": 160
     },
     {
       "name": "Quang Nguyen",
@@ -203,10 +203,10 @@
     {
       "name": "Will Ries",
       "matchPts": 38,
-      "stagePts": 18,
+      "stagePts": 21,
       "gf": 34,
       "ga": 18,
-      "maxPossible": 172
+      "maxPossible": 175
     },
     {
       "name": "Yujie Hu",
@@ -235,10 +235,10 @@
     {
       "name": "Kulwant lall",
       "matchPts": 27,
-      "stagePts": 12,
+      "stagePts": 15,
       "gf": 24,
       "ga": 19,
-      "maxPossible": 158
+      "maxPossible": 161
     },
     {
       "name": "Victor Sierra",
@@ -331,10 +331,10 @@
     {
       "name": "Ann Moreno",
       "matchPts": 30,
-      "stagePts": 12,
+      "stagePts": 15,
       "gf": 19,
       "ga": 5,
-      "maxPossible": 161
+      "maxPossible": 164
     },
     {
       "name": "Jun P",
@@ -466,11 +466,11 @@
     },
     {
       "name": "Nikita Patel",
-      "matchPts": 21,
-      "stagePts": 9,
-      "gf": 28,
+      "matchPts": 24,
+      "stagePts": 12,
+      "gf": 30,
       "ga": 28,
-      "maxPossible": 152
+      "maxPossible": 155
     },
     {
       "name": "EA",
@@ -483,10 +483,10 @@
     {
       "name": "Yoshua",
       "matchPts": 33,
-      "stagePts": 18,
+      "stagePts": 21,
       "gf": 39,
       "ga": 27,
-      "maxPossible": 164
+      "maxPossible": 167
     },
     {
       "name": "Jeremy Gresset",
@@ -499,10 +499,10 @@
     {
       "name": "Amy",
       "matchPts": 38,
-      "stagePts": 18,
+      "stagePts": 21,
       "gf": 38,
       "ga": 24,
-      "maxPossible": 172
+      "maxPossible": 175
     },
     {
       "name": "ikhal",
@@ -531,10 +531,10 @@
     {
       "name": "Parminder Ralh",
       "matchPts": 28,
-      "stagePts": 9,
+      "stagePts": 12,
       "gf": 27,
       "ga": 22,
-      "maxPossible": 156
+      "maxPossible": 159
     }
   ]
 }
