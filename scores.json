@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T15:57:19Z",
+  "lastUpdated": "2026-07-03T20:34:12Z",
   "currentStage": "\u26bd Round of 32 \u2014 In Progress",
   "actualTournamentWinner": "",
   "actualTotalGoals": 261,
@@ -60,7 +60,7 @@
       "stagePts": 15,
       "gf": 35,
       "ga": 17,
-      "maxPossible": 167
+      "maxPossible": 164
     },
     {
       "name": "Suresh Manivannin",
@@ -76,7 +76,7 @@
       "stagePts": 15,
       "gf": 29,
       "ga": 20,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Shahab Khodakhah",
@@ -84,7 +84,7 @@
       "stagePts": 15,
       "gf": 37,
       "ga": 14,
-      "maxPossible": 169
+      "maxPossible": 166
     },
     {
       "name": "Krishit Kadd",
@@ -108,7 +108,7 @@
       "stagePts": 15,
       "gf": 38,
       "ga": 25,
-      "maxPossible": 158
+      "maxPossible": 155
     },
     {
       "name": "Enda Sheil",
@@ -132,7 +132,7 @@
       "stagePts": 12,
       "gf": 29,
       "ga": 24,
-      "maxPossible": 159
+      "maxPossible": 156
     },
     {
       "name": "YC Lin",
@@ -244,7 +244,7 @@
       "stagePts": 15,
       "gf": 24,
       "ga": 19,
-      "maxPossible": 161
+      "maxPossible": 158
     },
     {
       "name": "Victor Sierra",
@@ -308,7 +308,7 @@
       "stagePts": 12,
       "gf": 32,
       "ga": 15,
-      "maxPossible": 165
+      "maxPossible": 162
     },
     {
       "name": "Tae Woo Kim",
@@ -436,7 +436,7 @@
       "stagePts": 21,
       "gf": 34,
       "ga": 28,
-      "maxPossible": 168
+      "maxPossible": 165
     },
     {
       "name": "Ryan Ma",
@@ -476,7 +476,7 @@
       "stagePts": 12,
       "gf": 30,
       "ga": 28,
-      "maxPossible": 155
+      "maxPossible": 152
     },
     {
       "name": "EA",
