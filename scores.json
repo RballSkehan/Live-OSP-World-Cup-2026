@@ -1,13 +1,14 @@
 {
-  "lastUpdated": "2026-07-04T15:47:06Z",
+  "lastUpdated": "2026-07-04T20:15:17Z",
   "currentStage": "\u26bd Round of 16 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 275,
+  "actualTotalGoals": 278,
   "eliminatedTeams": [
     "Algeria",
     "Australia",
     "Austria",
     "Bosnia-Herzegovina",
+    "Canada",
     "Cape Verde Islands",
     "Croatia",
     "Cura\u00e7ao",
@@ -22,6 +23,7 @@
     "Ivory Coast",
     "Japan",
     "Jordan",
+    "Morocco",
     "Netherlands",
     "New Zealand",
     "Panama",
@@ -48,9 +50,9 @@
     },
     {
       "name": "Conor Skehan",
-      "matchPts": 42,
+      "matchPts": 45,
       "stagePts": 24,
-      "gf": 43,
+      "gf": 46,
       "ga": 22,
       "maxPossible": 176
     },
@@ -160,9 +162,9 @@
     },
     {
       "name": "Mark",
-      "matchPts": 44,
+      "matchPts": 47,
       "stagePts": 24,
-      "gf": 44,
+      "gf": 47,
       "ga": 21,
       "maxPossible": 178
     },
@@ -208,9 +210,9 @@
     },
     {
       "name": "Will Ries",
-      "matchPts": 38,
+      "matchPts": 41,
       "stagePts": 21,
-      "gf": 34,
+      "gf": 37,
       "ga": 19,
       "maxPossible": 169
     },
@@ -243,14 +245,14 @@
       "matchPts": 27,
       "stagePts": 15,
       "gf": 27,
-      "ga": 24,
-      "maxPossible": 152
+      "ga": 27,
+      "maxPossible": 149
     },
     {
       "name": "Victor Sierra",
-      "matchPts": 44,
+      "matchPts": 47,
       "stagePts": 24,
-      "gf": 44,
+      "gf": 47,
       "ga": 24,
       "maxPossible": 178
     },
@@ -320,9 +322,9 @@
     },
     {
       "name": "Baljeet",
-      "matchPts": 39,
+      "matchPts": 42,
       "stagePts": 21,
-      "gf": 48,
+      "gf": 51,
       "ga": 30,
       "maxPossible": 170
     },
@@ -344,17 +346,17 @@
     },
     {
       "name": "Jun P",
-      "matchPts": 45,
+      "matchPts": 48,
       "stagePts": 27,
-      "gf": 48,
+      "gf": 51,
       "ga": 29,
       "maxPossible": 182
     },
     {
       "name": "Sam W",
-      "matchPts": 45,
+      "matchPts": 48,
       "stagePts": 27,
-      "gf": 41,
+      "gf": 44,
       "ga": 20,
       "maxPossible": 182
     },
@@ -408,9 +410,9 @@
     },
     {
       "name": "Latika",
-      "matchPts": 44,
+      "matchPts": 47,
       "stagePts": 24,
-      "gf": 44,
+      "gf": 47,
       "ga": 21,
       "maxPossible": 178
     },
@@ -448,9 +450,9 @@
     },
     {
       "name": "Naoufal Kachmouni",
-      "matchPts": 43,
+      "matchPts": 46,
       "stagePts": 27,
-      "gf": 46,
+      "gf": 49,
       "ga": 28,
       "maxPossible": 180
     },
@@ -528,9 +530,9 @@
     },
     {
       "name": "Bilal",
-      "matchPts": 34,
+      "matchPts": 37,
       "stagePts": 21,
-      "gf": 35,
+      "gf": 38,
       "ga": 25,
       "maxPossible": 165
     },
