@@ -1,10 +1,11 @@
 {
-  "lastUpdated": "2026-07-07T10:40:45Z",
+  "lastUpdated": "2026-07-07T18:26:17Z",
   "currentStage": "\u26bd Round of 16 \u2014 In Progress",
   "actualTournamentWinner": "",
-  "actualTotalGoals": 293,
+  "actualTotalGoals": 298,
   "eliminatedTeams": [
     "Algeria",
+    "Argentina",
     "Australia",
     "Austria",
     "Bosnia-Herzegovina",
@@ -16,6 +17,7 @@
     "Czech Republic",
     "DR Congo",
     "Ecuador",
+    "Egypt",
     "Germany",
     "Ghana",
     "Haiti",
@@ -64,33 +66,33 @@
       "name": "Liam Foster",
       "matchPts": 45,
       "stagePts": 27,
-      "gf": 42,
-      "ga": 20,
-      "maxPossible": 176
+      "gf": 44,
+      "ga": 23,
+      "maxPossible": 173
     },
     {
       "name": "Suresh Manivannin",
-      "matchPts": 39,
+      "matchPts": 42,
       "stagePts": 21,
-      "gf": 40,
-      "ga": 23,
+      "gf": 43,
+      "ga": 25,
       "maxPossible": 167
     },
     {
       "name": "Logan Hebert",
-      "matchPts": 40,
+      "matchPts": 43,
       "stagePts": 24,
-      "gf": 40,
-      "ga": 27,
-      "maxPossible": 171
+      "gf": 45,
+      "ga": 32,
+      "maxPossible": 168
     },
     {
       "name": "Shahab Khodakhah",
       "matchPts": 47,
       "stagePts": 30,
-      "gf": 44,
-      "ga": 17,
-      "maxPossible": 181
+      "gf": 46,
+      "ga": 20,
+      "maxPossible": 178
     },
     {
       "name": "Krishit Kadd",
@@ -112,9 +114,9 @@
       "name": "E.Monroy",
       "matchPts": 30,
       "stagePts": 18,
-      "gf": 44,
-      "ga": 30,
-      "maxPossible": 155
+      "gf": 46,
+      "ga": 33,
+      "maxPossible": 152
     },
     {
       "name": "Enda Sheil",
@@ -222,10 +224,10 @@
     },
     {
       "name": "Yujie Hu",
-      "matchPts": 18,
+      "matchPts": 21,
       "stagePts": 9,
-      "gf": 24,
-      "ga": 26,
+      "gf": 27,
+      "ga": 28,
       "maxPossible": 115
     },
     {
@@ -254,10 +256,10 @@
     },
     {
       "name": "Victor Sierra",
-      "matchPts": 50,
+      "matchPts": 53,
       "stagePts": 30,
-      "gf": 48,
-      "ga": 25,
+      "gf": 51,
+      "ga": 27,
       "maxPossible": 181
     },
     {
@@ -302,19 +304,19 @@
     },
     {
       "name": "Johnny Kam",
-      "matchPts": 40,
+      "matchPts": 43,
       "stagePts": 24,
-      "gf": 38,
-      "ga": 22,
+      "gf": 41,
+      "ga": 24,
       "maxPossible": 168
     },
     {
       "name": "Matt",
-      "matchPts": 40,
+      "matchPts": 43,
       "stagePts": 21,
-      "gf": 41,
-      "ga": 20,
-      "maxPossible": 168
+      "gf": 46,
+      "ga": 25,
+      "maxPossible": 165
     },
     {
       "name": "Tae Woo Kim",
@@ -334,10 +336,10 @@
     },
     {
       "name": "Hamid Saadvandi",
-      "matchPts": 29,
+      "matchPts": 32,
       "stagePts": 15,
-      "gf": 31,
-      "ga": 32,
+      "gf": 34,
+      "ga": 34,
       "maxPossible": 151
     },
     {
@@ -350,18 +352,18 @@
     },
     {
       "name": "Jun P",
-      "matchPts": 51,
+      "matchPts": 54,
       "stagePts": 33,
-      "gf": 52,
-      "ga": 30,
+      "gf": 55,
+      "ga": 32,
       "maxPossible": 185
     },
     {
       "name": "Sam W",
-      "matchPts": 54,
+      "matchPts": 57,
       "stagePts": 36,
-      "gf": 47,
-      "ga": 21,
+      "gf": 50,
+      "ga": 23,
       "maxPossible": 191
     },
     {
@@ -390,10 +392,10 @@
     },
     {
       "name": "Tushar Saha",
-      "matchPts": 36,
+      "matchPts": 39,
       "stagePts": 21,
-      "gf": 35,
-      "ga": 30,
+      "gf": 38,
+      "ga": 32,
       "maxPossible": 164
     },
     {
@@ -446,10 +448,10 @@
     },
     {
       "name": "Ryan Ma",
-      "matchPts": 35,
+      "matchPts": 38,
       "stagePts": 18,
-      "gf": 35,
-      "ga": 28,
+      "gf": 38,
+      "ga": 30,
       "maxPossible": 160
     },
     {
@@ -518,10 +520,10 @@
     },
     {
       "name": "ikhal",
-      "matchPts": 33,
+      "matchPts": 36,
       "stagePts": 18,
-      "gf": 31,
-      "ga": 17,
+      "gf": 34,
+      "ga": 19,
       "maxPossible": 158
     },
     {
@@ -542,10 +544,10 @@
     },
     {
       "name": "Parminder Ralh",
-      "matchPts": 34,
+      "matchPts": 37,
       "stagePts": 18,
-      "gf": 33,
-      "ga": 26,
+      "gf": 36,
+      "ga": 28,
       "maxPossible": 159
     }
   ]
