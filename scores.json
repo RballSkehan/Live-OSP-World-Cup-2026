@@ -1,11 +1,10 @@
 {
-  "lastUpdated": "2026-07-16T04:15:07Z",
+  "lastUpdated": "2026-07-16T06:36:06Z",
   "currentStage": "\u23f3 Tournament begins 11 June 2026",
   "actualTournamentWinner": "",
   "actualTotalGoals": 322,
   "eliminatedTeams": [
     "Algeria",
-    "Argentina",
     "Australia",
     "Austria",
     "Belgium",
@@ -20,7 +19,6 @@
     "DR Congo",
     "Ecuador",
     "Egypt",
-    "England",
     "Germany",
     "Ghana",
     "Haiti",
@@ -79,18 +77,18 @@
     {
       "name": "Suresh Manivannin",
       "matchPts": 51,
-      "stagePts": 30,
+      "stagePts": 33,
       "gf": 50,
       "ga": 29,
-      "maxPossible": 149
+      "maxPossible": 152
     },
     {
       "name": "Logan Hebert",
       "matchPts": 52,
-      "stagePts": 33,
+      "stagePts": 36,
       "gf": 53,
       "ga": 37,
-      "maxPossible": 150
+      "maxPossible": 156
     },
     {
       "name": "Shahab Khodakhah",
@@ -226,15 +224,15 @@
       "stagePts": 36,
       "gf": 46,
       "ga": 28,
-      "maxPossible": 157
+      "maxPossible": 160
     },
     {
       "name": "Yujie Hu",
       "matchPts": 27,
-      "stagePts": 15,
+      "stagePts": 18,
       "gf": 32,
       "ga": 30,
-      "maxPossible": 94
+      "maxPossible": 97
     },
     {
       "name": "Benedict Delahunty",
@@ -263,10 +261,10 @@
     {
       "name": "Victor Sierra",
       "matchPts": 62,
-      "stagePts": 39,
+      "stagePts": 42,
       "gf": 58,
       "ga": 33,
-      "maxPossible": 169
+      "maxPossible": 172
     },
     {
       "name": "Steven Ho",
@@ -311,18 +309,18 @@
     {
       "name": "Johnny Kam",
       "matchPts": 55,
-      "stagePts": 36,
+      "stagePts": 39,
       "gf": 50,
       "ga": 27,
-      "maxPossible": 156
+      "maxPossible": 159
     },
     {
       "name": "Matt",
       "matchPts": 52,
-      "stagePts": 30,
+      "stagePts": 33,
       "gf": 53,
       "ga": 29,
-      "maxPossible": 150
+      "maxPossible": 153
     },
     {
       "name": "Tae Woo Kim",
@@ -343,10 +341,10 @@
     {
       "name": "Hamid Saadvandi",
       "matchPts": 38,
-      "stagePts": 21,
+      "stagePts": 24,
       "gf": 39,
       "ga": 36,
-      "maxPossible": 124
+      "maxPossible": 127
     },
     {
       "name": "Ann Moreno",
@@ -359,18 +357,18 @@
     {
       "name": "Jun P",
       "matchPts": 63,
-      "stagePts": 42,
+      "stagePts": 45,
       "gf": 62,
       "ga": 38,
-      "maxPossible": 173
+      "maxPossible": 176
     },
     {
       "name": "Sam W",
       "matchPts": 69,
-      "stagePts": 48,
+      "stagePts": 51,
       "gf": 60,
       "ga": 30,
-      "maxPossible": 182
+      "maxPossible": 185
     },
     {
       "name": "Atousa",
@@ -399,10 +397,10 @@
     {
       "name": "Tushar Saha",
       "matchPts": 51,
-      "stagePts": 33,
+      "stagePts": 36,
       "gf": 47,
       "ga": 35,
-      "maxPossible": 149
+      "maxPossible": 152
     },
     {
       "name": "James Liu",
@@ -455,10 +453,10 @@
     {
       "name": "Ryan Ma",
       "matchPts": 47,
-      "stagePts": 27,
+      "stagePts": 30,
       "gf": 45,
       "ga": 34,
-      "maxPossible": 142
+      "maxPossible": 145
     },
     {
       "name": "Naoufal Kachmouni",
@@ -506,7 +504,7 @@
       "stagePts": 33,
       "gf": 50,
       "ga": 37,
-      "maxPossible": 143
+      "maxPossible": 146
     },
     {
       "name": "Jeremy Gresset",
@@ -522,15 +520,15 @@
       "stagePts": 36,
       "gf": 51,
       "ga": 36,
-      "maxPossible": 157
+      "maxPossible": 160
     },
     {
       "name": "ikhal",
       "matchPts": 48,
-      "stagePts": 30,
+      "stagePts": 33,
       "gf": 43,
       "ga": 22,
-      "maxPossible": 143
+      "maxPossible": 146
     },
     {
       "name": "Kevin Gao",
@@ -551,10 +549,10 @@
     {
       "name": "Parminder Ralh",
       "matchPts": 46,
-      "stagePts": 27,
+      "stagePts": 30,
       "gf": 44,
       "ga": 33,
-      "maxPossible": 138
+      "maxPossible": 144
     }
   ]
 }
