@@ -1,10 +1,11 @@
 {
-  "lastUpdated": "2026-07-19T20:57:12Z",
-  "currentStage": "\ud83c\udfc6 The Final \u2014 In Progress",
+  "lastUpdated": "2026-07-19T22:00:17Z",
+  "currentStage": "\ud83c\udfc6 Tournament Complete",
   "actualTournamentWinner": "",
   "actualTotalGoals": 332,
   "eliminatedTeams": [
     "Algeria",
+    "Argentina",
     "Australia",
     "Austria",
     "Belgium",
@@ -43,6 +44,7 @@
     "Senegal",
     "South Africa",
     "South Korea",
+    "Spain",
     "Sweden",
     "Switzerland",
     "Tunisia",
